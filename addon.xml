@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.module.pyaes" name="PyAes Module" provider-name="hbiyik" version="1.6.0">
+    <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">PyAes module</summary>
+		<description lang="en">PyAes</description>
+		<license>GNU General Public License, v2</license>
+		<forum>https://github.com/hbiyik/script.module.pyaes/issues</forum>
+		<website>https://github.com/hbiyik/script.module.pyaes</website>
+		<email>huseyinbiyik@hotmail.com</email>
+	</extension>
+</addon>
